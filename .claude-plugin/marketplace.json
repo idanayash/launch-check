@@ -1,0 +1,18 @@
+{
+  "name": "idantech",
+  "owner": {
+    "name": "Idan Ayash (IdanTech)",
+    "url": "https://idantech.co.il"
+  },
+  "metadata": {
+    "description": "סקילים של IdanTech לבנייה עם Claude Code"
+  },
+  "plugins": [
+    {
+      "name": "launch-check",
+      "source": "./plugins/launch-check",
+      "description": "בדיקות לפני עלייה לאוויר לאתרים ומערכות שנבנו עם AI — דוח בעברית, תיקונים רק באישור.",
+      "version": "1.0.0"
+    }
+  ]
+}
